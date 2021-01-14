@@ -1,0 +1,6 @@
+framework module Pods_tmdb_rxswift_mvvm_c_maya {
+  umbrella header "Pods-tmdb-rxswift-mvvm-c-maya-umbrella.h"
+
+  export *
+  module * { export * }
+}
